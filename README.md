@@ -1,2 +1,10 @@
 # Pong
-Pong In Python 3.8 - Uses Pygame
+Pong in python. Uses Pygame
+
+If There Is A Import Library Error
+
+Open CMD
+  Run "pip install pygame"
+  Written in Python 3.8
+
+Code Time: 4hrs 39min
